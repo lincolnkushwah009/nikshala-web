@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "803536144462",
+    "project_id": "nikshala-2fd7a",
+    "storage_bucket": "nikshala-2fd7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803536144462:android:587043bd8a79a27ab89b1f",
+        "android_client_info": {
+          "package_name": "com.nikshala.learning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803536144462-3te1u3htqmqldcll6lqe63i8ecbf6uk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nikshala.learning",
+            "certificate_hash": "27eb5cf217a103d49cb91b2e7ddc9d5a8ecda315"
+          }
+        },
+        {
+          "client_id": "803536144462-uptg5hek6gmhcvb014c173ki7nrvtdqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ3Ym7NIlDZuGPM-scu5u9IDNc9kB074Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803536144462-uptg5hek6gmhcvb014c173ki7nrvtdqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

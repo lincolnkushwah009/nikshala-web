@@ -1,0 +1,21 @@
+{
+    "provider": "apple_pay",
+    "data": {
+      "merchantIdentifier": "merchant.nikshala.applepay",
+      "displayName": "Sam's Fish",
+      "merchantCapabilities": ["3DS", "debit", "credit"],
+      "supportedNetworks": ["amex", "visa", "discover", "masterCard"],
+      "countryCode": "IN",
+      "currencyCode": "INR",
+      "requiredBillingContactFields": ["emailAddress", "name", "phoneNumber", "postalAddress"],
+      "requiredShippingContactFields": [],
+      "shippingMethods": [
+        {
+          "amount": "0.00",
+          "detail": "Available instantly",
+          "identifier": "in_store_pickup",
+          "label": "In-Store Pickup"
+        }
+      ]
+    }
+  }
